@@ -1,0 +1,11 @@
+# Documentos con datos de alumnado: nunca en el repositorio
+*.docx
+*.pdf
+*Resumen_Operativo*
+*Perfil_*
+*Red_del_ingles*
+*Mapa_del_ingles*
+# Sistema
+.DS_Store
+Thumbs.db
+~$*

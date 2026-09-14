@@ -1,0 +1,669 @@
+{
+ "tramos": [
+  {
+   "key": "eie",
+   "nombre": "Tramo EIE",
+   "etapa": "Educación Infantil Especial",
+   "decreto": "Decreto 36/2022",
+   "dec_sub": "Currículo de Educación Infantil de la Comunidad de Madrid. Área III, Comunicación y representación de la realidad, bloque J \"Lengua extranjera\".",
+   "comps": [
+    "Manifestar interés por interactuar en situaciones cotidianas y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones.",
+    "Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno.",
+    "Producir mensajes de manera eficaz, personal y creativa utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos.",
+    "Participar por iniciativa propia en actividades relacionadas con textos escritos, mostrando interés y curiosidad.",
+    "Valorar las diferentes lenguas presentes en su entorno, así como otras manifestaciones culturales."
+   ],
+   "niveles": [
+    {
+     "nom": "Acceso",
+     "corr": "Primer ciclo de Infantil",
+     "sub": "Primer contacto. Referente: criterios 1.5 y 5.1 del primer ciclo"
+    },
+    {
+     "nom": "EIE 1",
+     "corr": "3 años",
+     "sub": "Primer curso del segundo ciclo"
+    },
+    {
+     "nom": "EIE 2",
+     "corr": "4 años",
+     "sub": "Segundo curso del segundo ciclo"
+    },
+    {
+     "nom": "EIE 3",
+     "corr": "5 años",
+     "sub": "Cierre de Infantil"
+    }
+   ],
+   "criterios": [
+    {
+     "num": "1.3",
+     "txt": "Participar en situaciones de uso de diferentes lenguas, mostrando interés y curiosidad por las mismas.",
+     "comp": 1,
+     "centros": [
+      {
+       "cod": "E1",
+       "txt": "Participa en la rutina de inicio y cierre de la sesión de inglés (saludo, canción, despedida)",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Permanece en el espacio de la sesión y se orienta hacia el adulto o hacia la canción durante el saludo y la despedida, con acompañamiento físico si lo necesita."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Hace el gesto de saludo y de despedida (mano, signo, pulsar el comunicador) cuando el adulto lo modela delante."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Saluda y se despide en inglés por su vía al empezar y al terminar la sesión, con una señal visual o verbal del adulto."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Saluda, se despide y sigue el orden de la rutina (saludo, canción, actividad, despedida) sin recordatorio."
+        }
+       ]
+      },
+      {
+       "cod": "E2",
+       "txt": "Se implica en canciones y juegos en inglés reproduciendo gestos, movimientos o sonidos",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Atiende a la canción o al juego (mira, se mueve con el ritmo, se calma) durante al menos parte de la actividad."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Reproduce uno o dos gestos o movimientos de una canción conocida siguiendo al adulto."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Reproduce la secuencia de gestos de dos o tres canciones conocidas siguiendo al grupo."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Sigue el modelo en canciones y juegos nuevos y, en los conocidos, hace el gesto antes de que llegue la palabra."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "2.3",
+     "txt": "Mostrar interés por conocer y comprender mensajes muy sencillos en lengua extranjera relacionados con rutinas y situaciones cotidianas.",
+     "comp": 2,
+     "centros": [
+      {
+       "cod": "E3",
+       "txt": "Responde a instrucciones sencillas del aula dadas en inglés, con una acción, un gesto o la mirada",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Responde a una instrucción de rutina (come here, sit down, stop) cuando va acompañada de gesto y de ayuda física."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Responde a instrucciones de rutina en inglés acompañadas de gesto."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Responde a instrucciones sencillas en inglés sin gesto, dentro de la rutina conocida (give me, open, put, wait)."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Responde a instrucciones de dos pasos o con un elemento nuevo (give me the red one, put it on the table)."
+        }
+       ]
+      },
+      {
+       "cod": "E4",
+       "txt": "Identifica el vocabulario trabajado cuando se nombra en inglés (señala, mira, elige entre opciones, lo busca en el comunicador)",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Dirige la mirada o la mano hacia el objeto o la imagen nombrados en inglés, entre dos opciones, con apoyo del adulto."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Señala o elige el objeto o la imagen nombrados en inglés entre dos o tres opciones."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Señala o elige entre varias opciones el vocabulario de los campos trabajados en su plan curricular."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Identifica el vocabulario trabajado en un contexto distinto del de la sesión (en un cuento, en el patio, en una imagen nueva)."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "3.8",
+     "txt": "Adquirir y utilizar, de manera gradual y acorde al nivel madurativo, vocabulario y expresiones sencillas en lengua extranjera relacionadas con rutinas y situaciones habituales de comunicación.",
+     "comp": 3,
+     "centros": [
+      {
+       "cod": "E5",
+       "txt": "Nombra por su vía el vocabulario trabajado en inglés",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Vocaliza, signa o pulsa (aunque sea una aproximación) ante un objeto o imagen que le motiva, cuando el adulto lo acaba de nombrar en inglés."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Nombra por su vía entre tres y cinco palabras en inglés de las trabajadas, con modelo inmediato del adulto."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Nombra por su vía el vocabulario de los campos trabajados cuando se le pregunta (What's this?)."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Nombra el vocabulario trabajado sin que se le pregunte, para pedir, comentar o elegir, y combina dos palabras (red car, big dog)."
+        }
+       ]
+      },
+      {
+       "cod": "E6",
+       "txt": "Usa expresiones de rutina en inglés en el momento que corresponde (hello, bye, thank you, please, more, help)",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Responde con gesto o mirada a hello, bye y more o help dentro de la rutina."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Usa hello y bye por su vía en su momento, con recordatorio del adulto."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Usa hello, bye, thank you, please, more y help por su vía en su momento, sin recordatorio."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Usa las expresiones de rutina y otras trabajadas (I'm fine, my turn, I want, can I) ajustadas a la situación."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "5.2",
+     "txt": "Participar en interacciones comunicativas en lengua extranjera iniciándose en el uso de normas socialmente establecidas para comenzar, mantener y terminar una conversación relacionadas con rutinas y situaciones cotidianas.",
+     "comp": 5,
+     "centros": [
+      {
+       "cod": "E7",
+       "txt": "Responde por su vía a un saludo o una pregunta dirigida en inglés, esperando su turno",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Responde a su nombre y a un saludo dirigido en inglés con la mirada, un gesto o un sonido."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Responde por su vía a una pregunta cerrada dirigida (Do you like it? Is it a cat?) con sí o no, con apoyo visual."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Responde por su vía a preguntas sencillas dirigidas (What's your name? How are you? What colour?), esperando su turno."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Mantiene un intercambio de dos o tres turnos en inglés (pregunta, respuesta, pregunta) con el adulto o con un compañero."
+        }
+       ]
+      },
+      {
+       "cod": "E8",
+       "txt": "Inicia un intercambio en inglés (saluda, pide, elige) sin que se le pida",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Reclama continuar una actividad que le gusta (more, again) con gesto, mirada o comunicador."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Pide por su vía un objeto o una actividad en inglés cuando se le ofrece una elección (apple or banana?)."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Inicia un saludo o una petición en inglés sin que se le pida, con adultos conocidos."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Inicia intercambios en inglés con adultos y compañeros (saluda, pide, ofrece, comenta), en la sesión y fuera de ella."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "5.4",
+     "txt": "Mostrar una actitud positiva durante la aproximación a textos literarios en lengua extranjera tales como cuentos, pequeños poemas, leyendas…",
+     "comp": 5,
+     "centros": [
+      {
+       "cod": "E9",
+       "txt": "Atiende a un cuento o canción-cuento en inglés hasta el final, con apoyo visual",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Permanece y atiende a un cuento o canción-cuento en inglés muy breve, con apoyo visual y sensorial (objetos, texturas, sonidos)."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Atiende a un cuento breve en inglés con apoyo visual hasta el final, con el adulto a su lado."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Atiende a un cuento en inglés conocido y hace algún gesto o sonido en los momentos que se repiten."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Atiende a cuentos nuevos en inglés, participa en las repeticiones (sonidos, frases, gestos) y anticipa lo que va a pasar."
+        }
+       ]
+      },
+      {
+       "cod": "E10",
+       "txt": "Reconoce personajes o elementos de un cuento o canción en inglés (los señala, los nombra, anticipa lo que viene)",
+       "ind": [
+        {
+         "nivel": "Acceso",
+         "txt": "Reacciona (mira, sonríe, se mueve) cuando aparece un personaje o elemento conocido en el cuento o la canción."
+        },
+        {
+         "nivel": "EIE 1",
+         "txt": "Señala o elige un personaje o elemento del cuento cuando se le nombra en inglés."
+        },
+        {
+         "nivel": "EIE 2",
+         "txt": "Nombra por su vía personajes o elementos del cuento y dice si le gustan (I like, I don't like)."
+        },
+        {
+         "nivel": "EIE 3",
+         "txt": "Cuenta por su vía qué pasa en el cuento (quién, qué hace) con apoyo de las imágenes, y elige el que prefiere."
+        }
+       ]
+      }
+     ],
+     "no": null
+    }
+   ],
+   "extra": {
+    "primer_ciclo": [
+     {
+      "num": "1.5",
+      "txt": "Mostrar interés y curiosidad hacia las diferentes lenguas."
+     },
+     {
+      "num": "5.1",
+      "txt": "Mostrar respeto e interés por la variedad lingüística y cultural del aula."
+     }
+    ],
+    "nota": "En el nivel Acceso el referente oficial es el primer ciclo de Infantil, donde no existe el bloque J: la norma solo pide interés y curiosidad hacia las lenguas (1.5) y respeto por la variedad lingüística del aula (5.1). Por eso sus indicadores describen contacto y respuesta, no aprendizaje de vocabulario."
+   }
+  },
+  {
+   "key": "ebo",
+   "nombre": "Tramo EBO",
+   "etapa": "Educación Básica Obligatoria",
+   "decreto": "Decreto 61/2022",
+   "dec_sub": "Currículo de Educación Primaria de la Comunidad de Madrid. Área Lengua Extranjera: Inglés, criterios del primer ciclo.",
+   "comps": [
+    "Comprender el sentido general e información específica y predecible de textos breves y sencillos, expresados de forma clara y en la lengua estándar, haciendo uso de diversas estrategias y recurriendo, cuando sea necesario, al uso de distintos tipos de apoyo, para desarrollar el repertorio del lenguaje y para responder a necesidades comunicativas cotidianas.",
+    "Producir textos sencillos de manera comprensible y estructurada, mediante el empleo de estrategias como la planificación o la compensación, para expresar mensajes breves relacionados con necesidades inmediatas y responder a propósitos comunicativos cotidianos.",
+    "Interactuar con otras personas usando expresiones cotidianas, recurriendo a estrategias de colaboración y empleando recursos analógicos y digitales, para responder a necesidades inmediatas de su interés en intercambios comunicativos respetuosos con las normas de cortesía.",
+    "Participar en situaciones predecibles, usando estrategias y conocimientos para procesar y transmitir información básica y sencilla, con el fin de facilitar la comunicación.",
+    "Reconocer y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando sobre su funcionamiento e identificando las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicativas concretas en situaciones conocidas.",
+    "Apreciar y respetar la diversidad de otros contextos a partir de la lengua extranjera, identificando y valorando las diferencias y semejanzas entre lenguas y culturas, para aprender a gestionar situaciones entre diferentes culturas."
+   ],
+   "niveles": [
+    {
+     "nom": "EBO 1",
+     "corr": "Entrada al primer ciclo",
+     "sub": "Primer paso del primer ciclo de Primaria"
+    },
+    {
+     "nom": "EBO 2",
+     "corr": "Mitad del primer ciclo",
+     "sub": "Segundo paso"
+    },
+    {
+     "nom": "EBO 3",
+     "corr": "Cierre del primer ciclo",
+     "sub": "Techo del ciclo; la adaptación puede seleccionar criterios del segundo ciclo"
+    }
+   ],
+   "criterios": [
+    {
+     "num": "1.1",
+     "txt": "Reconocer e interpretar palabras y expresiones habituales en textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos de relevancia personal y próximos a su experiencia, expresados de forma comprensible, clara, sencilla y directa y en lengua estándar.",
+     "comp": 1,
+     "centros": [
+      {
+       "cod": "B1",
+       "txt": "Comprende palabras y expresiones conocidas en mensajes orales y textos breves con apoyo visual, y lo demuestra (actúa, señala, elige, responde)",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Responde a instrucciones y preguntas de aula en inglés e identifica el vocabulario de los campos trabajados en textos orales muy breves (una canción, la descripción de una imagen), con apoyo visual."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Comprende frases sencillas con las estructuras trabajadas (there is, I have got, I like, he is big) sobre imágenes o situaciones conocidas, y las relaciona con la imagen correcta; sigue una historia breve con apoyo visual."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Comprende el sentido general de textos orales y escritos breves (una descripción, una historia, un diálogo) sobre temas trabajados, y localiza en ellos información concreta (quién, dónde, cuántos, de qué color)."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "1.2",
+     "txt": "Seleccionar y aplicar de forma guiada estrategias elementales en situaciones comunicativas cotidianas y de relevancia para el alumnado con el fin de captar la idea global e identificar elementos específicos con ayuda de elementos de la lengua y del contexto y el cotexto.",
+     "comp": 1,
+     "centros": [
+      {
+       "cod": "B2",
+       "txt": "Usa estrategias para entender: mira la imagen, el gesto y el contexto, y pide repetición o ayuda",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Se apoya en la imagen y en el gesto del adulto para entender, y pide ayuda o repetición por su vía (again, help)."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Usa el contexto y las palabras que conoce para deducir una palabra nueva dentro de una frase conocida, y pide aclaración en inglés (What? Again, please)."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Antes de responder, localiza las palabras clave del mensaje o del texto (las señala o subraya) y las comprueba con la imagen o el contexto; distingue cuándo no ha entendido y lo dice."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "2.1",
+     "txt": "Expresar oralmente frases cortas y sencillas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando de forma guiada recursos verbales y no verbales, recurriendo a modelos y estructuras previamente presentados y prestando atención al ritmo, la acentuación y la entonación en lengua inglesa.",
+     "comp": 2,
+     "centros": [
+      {
+       "cod": "B3",
+       "txt": "Expresa por su vía mensajes breves en inglés (frases de dos o tres elementos) a partir de modelos",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Produce por su vía palabras y frases fórmula (I'm fine, it's a cat, I like apples) con un modelo inmediato."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Produce frases de dos o tres elementos con las estructuras trabajadas (I have got a dog, there is a ball, he is big, I can jump) con apoyo visual y sin modelo inmediato."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Produce mensajes de dos o tres frases enlazadas (and) sobre sí mismo, su familia o una imagen, con las estructuras del ciclo, y quien le escucha los entiende."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "2.2",
+     "txt": "Escribir palabras, expresiones conocidas y frases a partir de modelos y con una finalidad específica, a través de herramientas analógicas y digitales, usando léxico y estructuras elementales de la lengua inglesa sobre asuntos cotidianos y de relevancia personal para el alumnado.",
+     "comp": 2,
+     "centros": [
+      {
+       "cod": "B4",
+       "txt": "Escribe o compone palabras y frases conocidas en inglés a partir de modelo (a mano, con letras móviles, teclado o pictogramas)",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Reproduce palabras conocidas a partir de modelo (copia, letras móviles, teclado, pictograma con etiqueta) y las asocia a su imagen."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Escribe palabras conocidas sin modelo y completa frases con huecos (I like ___, it is ___) con banco de palabras o tarjetas."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Escribe frases sencillas completas a partir de modelo y con una finalidad (una etiqueta, una felicitación, una lista, una descripción de tres frases)."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "2.3",
+     "txt": "Seleccionar y aplicar de forma guiada, estrategias básicas para producir mensajes breves y sencillos en inglés, adecuados a las intenciones comunicativas usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.",
+     "comp": 2,
+     "centros": [
+      {
+       "cod": "B5",
+       "txt": "Usa apoyos para producir (tarjetas, banco de palabras, comunicador, modelo escrito, gesto) cuando le falta la palabra",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Cuando no tiene la palabra, señala, hace el gesto o usa la tarjeta o el comunicador para hacerse entender."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Elige entre sus apoyos (tarjeta, banco de palabras, comunicador, modelo escrito) el que necesita para completar el mensaje, con indicación del adulto."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Usa por sí mismo los apoyos disponibles para preparar y corregir su mensaje (mira el modelo, consulta el banco de palabras, pregunta How do you say...?)."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "3.1",
+     "txt": "Participar, de forma guiada, en situaciones interactivas elementales sobre temas cotidianos, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía.",
+     "comp": 3,
+     "centros": [
+      {
+       "cod": "B6",
+       "txt": "Participa en intercambios preparados (juego de preguntas, role-play, presentación) manteniendo turnos",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Participa en un intercambio preparado con el adulto (What's this? It's a...; Do you like...? Yes / No) con apoyo visual y turnos marcados."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Participa en un juego o role-play preparado con un compañero (tienda, restaurante, Guess who) manteniendo dos o tres turnos con apoyo de tarjetas."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Mantiene un intercambio preparado de cuatro o más turnos con compañeros, respeta los turnos y usa recursos no verbales para arreglar los fallos."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "3.2",
+     "txt": "Seleccionar y utilizar, de forma guiada y en entornos próximos, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes sencillos y breves; y formular y contestar preguntas básicas para la comunicación en lengua inglesa.",
+     "comp": 3,
+     "centros": [
+      {
+       "cod": "B7",
+       "txt": "Saluda, se despide, se presenta, y formula y contesta preguntas básicas en inglés",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Saluda, se despide, dice su nombre y responde por su vía a How are you? y How old are you?"
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Se presenta con dos o tres datos (nombre, edad, gustos) y responde a preguntas con What, Where, How many y Who sobre temas trabajados."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Formula y contesta preguntas básicas (What's your name? Where is...? How many...? Do you like...? Can you...?) para obtener información de otra persona."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "4.1",
+     "txt": "Interpretar y explicar, de forma guiada, información básica de conceptos, comunicaciones y textos breves y sencillos en situaciones en las que atender a la diversidad, mostrando empatía e interés por los interlocutores e interlocutoras y por los problemas de entendimiento en su entorno inmediato, apoyándose en diversos recursos y soportes.",
+     "comp": 4,
+     "centros": [
+      {
+       "cod": "B8",
+       "txt": "Transmite a otros información sencilla (el tiempo, el día, lo que hay en una imagen, un mensaje recibido) con apoyos",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Transmite a la clase un dato de la rutina (el tiempo que hace, el día, cuántos hay) con apoyo visual (calendario, tarjetas del tiempo)."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Explica en inglés a un compañero o al adulto, con apoyo, lo que ve en una imagen o lo que ha pasado en el juego."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Transmite a otra persona un mensaje sencillo que ha recibido (del adulto, de un texto, de un compañero al que no se entiende), en inglés o en español según quien lo necesite."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "5.1",
+     "txt": "Comparar y contrastar similitudes y diferencias evidentes entre distintas lenguas reflexionando, de forma guiada, sobre aspectos elementales de su funcionamiento.",
+     "comp": 5,
+     "centros": [
+      {
+       "cod": "B9",
+       "txt": "Compara el inglés con el español: reconoce palabras parecidas y dice cómo se dice algo en la otra lengua",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Reconoce palabras parecidas en inglés y en español (animal, elephant, chocolate, doctor) cuando se le presentan juntas."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Dice cómo se dice en español una palabra trabajada en inglés, y al revés, y detecta palabras transparentes en una lista o un texto."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Señala una diferencia entre las dos lenguas dentro de lo trabajado (el adjetivo antes del nombre, el plural, la s de he y she) y la aplica al producir."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "5.2",
+     "txt": "Identificar y aplicar, de forma guiada, conocimientos y estrategias de mejora de su capacidad de comunicar y de aprender la lengua extranjera, con apoyo de otros participantes y de soportes analógicos y digitales.",
+     "comp": 5,
+     "centros": [
+      {
+       "cod": "B10",
+       "txt": "Usa estrategias para aprender: repite, imita, usa su diccionario visual, practica con tarjetas o juegos",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Repite e imita el modelo y usa su diccionario visual o su carpeta de tarjetas para recordar vocabulario, con indicación del adulto."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Usa por sí mismo un recurso para recordar (diccionario visual, canción, gesto asociado) y practica en juegos de memoria o de emparejar."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Elige cómo practicar lo que le cuesta (repetir, canción, tarjetas, juego digital) y comprueba con el adulto si lo ha conseguido."
+        }
+       ]
+      }
+     ],
+     "no": null
+    },
+    {
+     "num": "5.3",
+     "txt": "Identificar y explicar, de manera guiada, avances y dificultades elementales en el proceso de aprendizaje de la lengua extranjera.",
+     "comp": 5,
+     "centros": [],
+     "no": "Pide que el alumno explique qué se le da bien y qué le cuesta del inglés (autoevaluación, Portfolio Europeo de las Lenguas). No hay conducta observable en nuestro alumnado; lo observable ya está recogido en el 5.2."
+    },
+    {
+     "num": "6.1",
+     "txt": "Mostrar interés por la comunicación entre diferentes culturas, identificando y analizando, de forma guiada, las discriminaciones y los prejuicios más comunes, en situaciones cotidianas y habituales.",
+     "comp": 6,
+     "centros": [],
+     "no": "Pide identificar y analizar discriminaciones y prejuicios entre culturas. No hay conducta observable en nuestras aulas; lo evaluable (respeto y curiosidad ante lo distinto) ya está en el 6.2."
+    },
+    {
+     "num": "6.2",
+     "txt": "Reconocer y apreciar la diversidad de otros contextos relacionados con la lengua extranjera, mostrando interés por conocer los elementos fundamentales de la lengua y su cultura.",
+     "comp": 6,
+     "centros": [
+      {
+       "cod": "B11",
+       "txt": "Reconoce elementos de la cultura de países de habla inglesa (fiestas, comidas, canciones, costumbres) y participa en ellos",
+       "ind": [
+        {
+         "nivel": "EBO 1",
+         "txt": "Participa en las celebraciones del calendario inglés trabajadas en el aula (Halloween, Christmas, Easter) y reconoce sus elementos cuando se nombran en inglés."
+        },
+        {
+         "nivel": "EBO 2",
+         "txt": "Nombra elementos de la vida cotidiana en países de habla inglesa (comidas, fiestas, uniformes, canciones) y los distingue de los propios."
+        },
+        {
+         "nivel": "EBO 3",
+         "txt": "Explica por su vía una costumbre de un país de habla inglesa trabajada y la compara con la suya."
+        }
+       ]
+      }
+     ],
+     "no": null
+    }
+   ],
+   "extra": {
+    "nota": "De los trece criterios del primer ciclo se seleccionan once. Los dos que quedan fuera se dicen y se explican, en lugar de dejar dos filas vacías en cada informe."
+   }
+  }
+ ],
+ "reglas": [
+  {
+   "k": "C",
+   "t": "Conseguido",
+   "d": "La conducta del indicador aparece en cuatro sesiones distintas del trimestre, no necesariamente seguidas, con el apoyo previsto en su nivel."
+  },
+  {
+   "k": "EP",
+   "t": "En proceso",
+   "d": "Aparece entre una y tres sesiones, o solo con más apoyo del previsto."
+  },
+  {
+   "k": "NC",
+   "t": "No conseguido",
+   "d": "No ha aparecido en el trimestre."
+  }
+ ]
+}

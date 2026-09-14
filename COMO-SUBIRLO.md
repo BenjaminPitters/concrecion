@@ -6,17 +6,17 @@ La carpeta ya está lista: solo falta crear el repositorio con tu cuenta.
 
 Ábrelo en esta carpeta y pídele:
 
-> Crea un repositorio privado en GitHub llamado concrecion-ingles-querer con el contenido de
+> Crea un repositorio privado en GitHub llamado concrecion con el contenido de
 > esta carpeta y súbelo.
 
 ## Opción B, a mano, si tienes GitHub CLI
 
 ```bash
-cd "concrecion-ingles-querer"
+cd "concrecion"
 git init -b main
 git add -A
 git commit -m "Concreción curricular de Inglés: web paso a paso y datos"
-gh repo create concrecion-ingles-querer --private --source=. --push
+gh repo create concrecion --private --source=. --push
 ```
 
 ## Opción C, a mano, sin GitHub CLI
@@ -24,11 +24,11 @@ gh repo create concrecion-ingles-querer --private --source=. --push
 Crea primero el repositorio vacío en github.com (botón New, sin README) y luego:
 
 ```bash
-cd "concrecion-ingles-querer"
+cd "concrecion"
 git init -b main
 git add -A
 git commit -m "Concreción curricular de Inglés: web paso a paso y datos"
-git remote add origin https://github.com/TU-USUARIO/concrecion-ingles-querer.git
+git remote add origin https://github.com/TU-USUARIO/concrecion.git
 git push -u origin main
 ```
 
@@ -39,7 +39,7 @@ alumnado, pero es documentación interna del colegio en elaboración.
 
 Si algún día queréis que se vea como página web con su dirección, en un repositorio **público**
 se activa en Settings, Pages, rama main, carpeta raíz, y queda publicado en
-`https://TU-USUARIO.github.io/concrecion-ingles-querer/`.
+`https://TU-USUARIO.github.io/concrecion/`.
 
 ## Lo que NO debe entrar aquí
 
